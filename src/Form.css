@@ -1,0 +1,36 @@
+h2 {
+  color: #42a7c2;
+  text-align: left;
+  margin-left: 40px;
+}
+
+.UserName,
+.password {
+  color: black;
+  background-color: white;
+  border: 1px solid #42a7c2;
+  border-radius: 2px;
+  padding: 8px 14px;
+  font-size: medium;
+  width: 300px;
+  height: 20px;
+  margin: 8px;
+}
+
+.LoginText {
+  color: black;
+  text-align: center;
+  margin-bottom: 9px;
+  margin-top: 150px;
+}
+
+.LoginButton {
+  display: block;
+  margin: 17px auto;
+}
+
+.renderDetails {
+  background-color: #42a7c2;
+  color: white;
+  border-radius: 10px;
+}

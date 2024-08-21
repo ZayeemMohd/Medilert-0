@@ -1,0 +1,15 @@
+.ChildComp2{
+    height: 652px;
+    width: 446.4px;
+    background-color: #42A7C2;
+    border-radius: 10px;
+    text-align: center;
+    background-image: url("./circless.png")
+}
+
+.cameraGirl{
+    
+    height: 499px;
+    width: 500px;
+    background-image: url("./assets/cameraGirl.png")
+}
